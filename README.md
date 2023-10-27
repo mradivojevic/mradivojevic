@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mradivojevic
 - 👀 I’m interested in Open Source software, SAP Development, Node.js, JavaScript and Web Development
-- 🌱 I’m currently learning Svelte
 - 📫 How to reach me https://www.linkedin.com/in/milosradivojevic/
